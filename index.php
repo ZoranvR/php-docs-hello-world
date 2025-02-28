@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello Azure!";
+echo "Hello Azure Appservice assignemnt 1.3!";
